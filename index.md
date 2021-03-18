@@ -2,6 +2,11 @@
 
 ### Processing Projects
 
+#### Calculator
+First ever programming project, working with basic commands and functions. Source file [here](https://github.com/michaelxcw/ProgrammingPortfolio/tree/gh-pages/src/Calculator).
+
+![Calculator](https://github.com/michaelxcw/ProgrammingPortfolio/blob/gh-pages/images/CalcProject.PNG)
+
 #### SpaceGame
 Final Processing project for 2020! OOP project for interactive game. Source file [here](https://github.com/michaelxcw/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame).
 
