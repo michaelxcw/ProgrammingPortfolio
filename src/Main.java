@@ -1,10 +1,26 @@
+import java.util.Scanner;
+import java.util.Random;
+
 class Main {
   public static void main(String[] args) {
-    for(int x = 99; x > 0; x = x - 1) {
-      System.out.print(x + " bottles of root beer on the wall," + x + " bottles of root beer.");
-      System.out.print("\n");
-      System.out.print("Take one down and pass it around," + (x-1) + " bottles of root beer on the wall.");
-      System.out.print("\n");
+    Random random = new Random();
+    int randNum = random.nextInt(100);
+    int guess = 0;
+    int attempts = 0;
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Welcome to the Number Guessing Game!");
+    System.out.println("Guess a number betweeen 1 and 100");
+    guess = sc.nextInt();
+    while(guess != randNum){
+      if(randNum>guess){
+        System.out.println("Your guess was too low, try again");
+        guess = sc.nextInt();
+      }else if(randNum<guess){
+        System.out.println("Your guess was too high, try again");
+        guess = sc.nextInt();
+      }
+      attempts++;
     }
+    System.out.println("You win! You guessed it in " + attempts + " tries!");
   }
 }
