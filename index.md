@@ -17,3 +17,7 @@ The first project done in a java environment. Source file [here](https://github.
 
 ![RootBeer APP](https://github.com/michaelxcw/ProgrammingPortfolio/blob/gh-pages/images/rootbeerapp.PNG?raw=true)
 
+#### Number Guessing Game
+Introduction of interactive functions and utilities such as scanner. Source file [here](https://github.com/michaelxcw/ProgrammingPortfolio/blob/gh-pages/src/numberGuessingGame.java).
+
+![Number Guessing Game](https://github.com/michaelxcw/ProgrammingPortfolio/blob/gh-pages/images/number%20guess%20game.PNG?raw=true)
