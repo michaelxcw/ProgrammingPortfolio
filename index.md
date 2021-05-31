@@ -26,3 +26,8 @@ Introduction of interactive functions and utilities such as scanner. Source file
 Interaction between classes and the using of member variables. Source file [here](https://github.com/michaelxcw/ProgrammingPortfolio/tree/gh-pages/src/ShapeTester).
 
 ![ShapeTester](https://github.com/michaelxcw/ProgrammingPortfolio/blob/gh-pages/images/ShapeTester.PNG?raw=true)
+
+#### Pong Game
+Final project for computer programming 1. Recreation of a classic game, Pong. Source file [here](https://github.com/michaelxcw/Pong-Game).
+
+![Pong Game](https://github.com/michaelxcw/ProgrammingPortfolio/blob/gh-pages/images/pong.PNG?raw=true)
