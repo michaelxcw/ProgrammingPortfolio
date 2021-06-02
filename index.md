@@ -30,4 +30,4 @@ Interaction between classes and the using of member variables. Source file [here
 #### Pong Game
 Final project for computer programming 1. Recreation of a classic game, Pong. Source file [here](https://github.com/michaelxcw/Pong-Game).
 
-![Pong Game](https://github.com/michaelxcw/ProgrammingPortfolio/blob/gh-pages/images/pong.PNG?raw=true)
+![Pong Game](https://github.com/michaelxcw/Pong-Game/blob/main/images/pongmina.PNG?raw=true)
